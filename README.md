@@ -1,6 +1,12 @@
-# Hi, I'm Pooja Anbalagan 👋
 
-### 🎓 Data Science Undergraduate | Machine Learning & NLP Enthusiast | Aspiring Data Scientist
+<h1 align="center">
+  Hi, I'm Pooja Anbalagan 👋
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Data+Science+Undergraduate+%F0%9F%93%8A;Machine+Learning+%26+NLP+Enthusiast+%F0%9F%A4%96;MLOps+Enthusiast+%E2%9A%99%EF%B8%8F;Cloud+Engineering+Enthusiast+%E2%98%81%EF%B8%8F;Aspiring+Data+Scientist+%F0%9F%9A%80" />
+</p>
+
 
 I'm a **BSc (Hons) Data Science undergraduate at Sabaragamuwa University of Sri Lanka**, passionate about turning data into meaningful insights and building intelligent, practical applications.
 
@@ -227,10 +233,15 @@ I'm particularly interested in learning how to take a machine learning project f
 
 ---
 
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PoojaAnbalagan&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoojaAnbalagan&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=PoojaAnbalagan&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=PoojaAnbalagan&layout=compact&theme=tokyonight" height="180"/>
 </p>
+
+
 
 # 🐍 Contribution Graph
 
